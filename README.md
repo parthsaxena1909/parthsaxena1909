@@ -23,6 +23,6 @@
 
 <p align="center">
 <a href="https://dev.to/parthsaxena1909" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="parthsaxena1909" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/parth saxena" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="parth saxena" height="30" width="30" /></a>
-<a href="https://kaggle.com/parth saxena1909" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="parth saxena1909" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/parthsaxena" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="parthsaxena" height="30" width="30" /></a>
+<a href="https://kaggle.com/parthsaxena1909" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="parthsaxena1909" height="30" width="30" /></a>
 </p>
