@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **ML\DL**
 
-- 📫 How to reach me **parth.saxena8@gmail.com**
+- 📫 How to reach me **parth.s.1909@gmail.com**
 
 - ⚡ Fun fact **I play a lot of games ;)**
 
