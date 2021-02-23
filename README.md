@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/parthsaxena1909](https://github.com/parthsaxena1909)
 
-- 💬 Ask me about **anything about software 2.0**
+- 💬 Ask me about **anything regarding software 2.0 **
 
 - 📫 How to reach me **parth.s.1909@gmail.com**
 
