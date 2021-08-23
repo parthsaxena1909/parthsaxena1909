@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Parth Saxena</h1>
 <h3 align="center">A passionate learn-it-all</h3>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **DeFi Development**
 
-- 👯 I’m looking to collaborate on **ML/DL**
+- 👯 I’m looking to collaborate on **DS**
 
 - 🤝 I’m looking for help with **Nothing ;)**
 
