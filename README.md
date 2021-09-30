@@ -9,13 +9,13 @@
 <p>
 <a align= "center" href="https://github.com/parthsaxena1909">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=parthsaxena1909&theme=radical">
+<a align= "right" href="https://github.com/parthsaxena1909">
+<img alt= "stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=parthsaxena1909&theme=radical&show_icons=true&count_private=true" /</a>
 
 </p>
 
 <p>
-<a align= "center" href="https://github.com/parthsaxena1909">
-  <img alt= "stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=parthsaxena1909&theme=radical&show_icons=true&count_private=true" />
-   </a>
+
 
 </p>
 
