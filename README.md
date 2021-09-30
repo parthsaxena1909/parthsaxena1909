@@ -19,10 +19,6 @@
 
 </p>
 
-
-
-
-
 <p align="left"> <a href="https://twitter.com/PS1909" target="blank"><img src="https://img.shields.io/twitter/follow/PS1909?logo=twitter&style=for-the-badge" alt="PS1909" /></a> </p>
 
 - 📫 How to reach me **parth.saxena8@gmail.com**
