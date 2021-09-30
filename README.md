@@ -9,7 +9,7 @@
 <p>
 <a align= "center" href="https://github.com/parthsaxena1909">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=parthsaxena1909&theme=radical">
-<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
+<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/1294594/screenshots/5460287/media/8b4786572205a8ac7305403f5e495c81.gif" /> </a>
         
 </p>
 
