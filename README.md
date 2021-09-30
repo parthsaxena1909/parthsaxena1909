@@ -5,10 +5,11 @@
 <h3 align="center"> I’m a 3rd-year student pursuing a Bachelors’s in Computer science. Obsessed with coding. Always exploring and learning new technologies. 💚</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthsaxena1909&label=Profile%20views&color=0e75b6&style=flat" alt="PS" /> </p>
+
 <p>
- <a align= "center" href="https://github.com/parthsaxena1909">
+<a align= "center" href="https://github.com/parthsaxena1909">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=parthsaxena1909&theme=radical">
-<img align="right" height="300px" width="300px" src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" /></a>
+<img align="right" height="300px" width="300px" src="https://cdn.dribbble.com/users/5124/screenshots/12296236/media/63d867b0df7a059f1f56a7b894f7d5a7.gif" /></a>
 </p>
 
 <p>
@@ -37,6 +38,5 @@
 
 <p>
 <p align="center">
-  <img src="https://github.com/parthsaxena1909/parthsaxena1909/raw/output/github-contribution-grid-snake.svg"
-alt="snake"></center>
+  <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
