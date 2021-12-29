@@ -2,7 +2,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Parth Saxena</h1>
-<h3 align="center"> I’m a 3rd-year student pursuing a Bachelors’s in Computer science. Obsessed with coding. Always exploring and learning new technologies. 💚</h3>
+<h3 align="center"> I’m a 2rd-year student pursuing a Bachelors’s in Computer science. Obsessed with coding. Always exploring and learning new technologies. 💚</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthsaxena1909&label=Profile%20views&color=0e75b6&style=flat" alt="PS" /> </p>
 
